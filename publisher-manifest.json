@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "145d1aff4d44c4a3434a5fc5",
+  "owner": "ghc336199",
+  "repo": "page-bcfc893f6735bcef8a17dfc2",
+  "title": "YOYO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bcfc893f6735bcef8a17dfc2",
+      "a": "YOYO",
+      "b": "机场官网线路发布页",
+      "entity": "YOYO",
+      "brand": "YOYO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8b36822cd555443e769d67c8197cb26f32a43ff2dfd04526d750f4df88b4c110",
+      "content": {
+        "primary_entity": "YOYO",
+        "keyword1": "YOYO",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，YOYO 面向需要稳定海外网络连接的用户提供多档订阅，按设备数量与月流量区分基础版、旗舰版与团队版，配合客户端文档完成订阅导入即可使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择 YOYO 订阅",
+          "AI_HERO_INTRO": "YOYO 提供基础版、旗舰版和团队版三档订阅，分别对应 3 台、5 台和 20 台设备同时在线的使用场景。",
+          "AI_VISUAL_TITLE": "YOYO 订阅选择",
+          "AI_HIGHLIGHT_1": "基础版支持 3 台设备同时在线",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持企业定制路由",
+          "AI_FEATURES_TITLE": "YOYO 订阅特点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度比较 YOYO 的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版可支持 20 台设备，适合多终端环境。",
+          "AI_FEATURE_TITLE_2": "周期与费用",
+          "AI_FEATURE_TEXT_2": "基础版每月 15 元，按年付 150 元；旗舰版每月 35 元，按年付 350 元；团队版每月 85 元，按年付 850 元。",
+          "AI_FEATURE_TITLE_3": "线路与流媒体",
+          "AI_FEATURE_TEXT_3": "旗舰版采用 IPLC 专线并支持全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_CLIENTS_TITLE": "选择 YOYO 客户端",
+          "AI_CLIENTS_INTRO": "根据你常用的设备类型，从对应客户端列表中选择并完成订阅配置。",
+          "AI_PLANS_TITLE": "YOYO 套餐对比",
+          "AI_PLANS_INTRO": "YOYO 基础版适合轻度使用，旗舰版面向流媒体与游戏场景，团队版满足多设备与企业路由需求。",
+          "AI_GUIDE_TITLE": "YOYO 订阅配置步骤",
+          "AI_GUIDE_INTRO": "按顺序完成选套餐、查适配、导入订阅三步配置。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TEXT_1": "根据月流量需求与同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端是否支持 YOYO 订阅，再决定对应版本。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "参照所选客户端的配置文档，将 YOYO 订阅信息导入并启用。",
+          "AI_FAQ_TITLE": "YOYO 常见问题",
+          "AI_FAQ_INTRO": "订阅选择、设备数量与线路差异。",
+          "AI_FAQ_QUESTION_1": "YOYO 三档套餐分别适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版适合 3 台设备以内、月流量 100GB 的轻度使用；旗舰版适合 5 台设备、需要流媒体和游戏加速的用户；团队版面向 20 台设备及企业路由场景。",
+          "AI_FAQ_QUESTION_2": "YOYO 支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可根据家庭或办公环境中实际终端数量选择。",
+          "AI_FAQ_QUESTION_3": "YOYO 套餐按年付有什么价格？",
+          "AI_FAQ_ANSWER_3": "基础版按年付 150 元，旗舰版按年付 350 元，团队版按年付 850 元，均相当于按月支付的一定比例折算。",
+          "AI_FAQ_QUESTION_4": "YOYO 旗舰版与团队版线路有什么区别？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用 IPLC 专线并针对游戏加速优化，提供 7x24 优先工单支持；团队版使用 VIP 专属高带宽节点，并支持企业定制路由。",
+          "AI_FAQ_QUESTION_5": "如何为 YOYO 订阅选择客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备系统类型，再从对应操作系统的客户端列表中选择，参照其配置文档导入 YOYO 订阅信息即可。",
+          "AI_CLOSING_TITLE": "按需选择 YOYO 订阅",
+          "AI_CLOSING_TEXT": "比较设备数量与月流量后，选择适合的 YOYO 套餐并参照客户端文档完成配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rxhdp.cn",
+    "host": "rxhdp.cn"
+  },
+  "file_hashes": {
+    "index.html": "88cc5f3787a75f4bbc9eec0066df8086c02cb1d7869a160121478d4f4e7d9f32",
+    "sitemap.xml": "3c53a1fc18e9465e8f0350f2e0e35802ed7b053266b718a8c9a8f9eecc06662d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3cd4a6c9ea38fe6b03590bed83c73f85d3e29840e8ea0c6feeeca5b3672afeab",
+    "robots.txt": "314e16f4f36edf02c0ed5a27d7c6e01b3cbe44bd59c273b0349e83d82c42093d",
+    "acafdd389e9ef7ecf1795417a41c5148.txt": "78180154ec6788b1936391c0fa507a336f68d0b589d870bde1f83349d395609b"
+  },
+  "revision": "c5cfef22df449c2090ad358c0d1c121a783bb56c031af78cc4ee83cff3a48589"
+}
